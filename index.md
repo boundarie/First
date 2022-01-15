@@ -6,7 +6,7 @@ His plan for this week is as follows( he would make some records here.
 
 ### 1.Embellishing the webpage
 
-As you see, the main theme of the webpage is one of the templates in github, which is not that cool.
+As you see, the theme of the webpage is one of the templates in github, which is not that cool.
 
 ### 2.Tuning his old ragged piano
 
