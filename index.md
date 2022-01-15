@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to cleverctz's webpage
 
-You can use the [editor on GitHub](https://github.com/boundarie/First/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+He is bored. He is bored. He is bored. He is bored. He is bored. He is bored. He is bored. He is bored.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+His plan for this week is as follows( he would make some records here.
 
-### Markdown
+### 1.Embellishing the webpage
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As you see, the main theme of the webpage is one of the templates in github, which is not that cool.
 
-```markdown
-Syntax highlighted code block
+### 2.Tuning his old ragged piano
 
-# Header 1
-## Header 2
-### Header 3
+Since hiring a Piano Tuner-Technician takes a lot of money (￥300 each time), this determined man decided to tune it himself. He bought some tools yesterday(￥140 only). 
 
-- Bulleted
-- List
+### 3.Reducing his weight
 
-1. Numbered
-2. List
+His weight reaches the peak again...
 
-**Bold** and _Italic_ and `Code` text
+### 4.Memorizing some words
 
-[Link](url) and ![Image](src)
-```
+His TOEFL test has been put off, which means he has more time to 摆烂(It's wrong).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+Bty, rent of the realm name is 6 yuan/year. Quite cheap, right?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boundarie/First/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
